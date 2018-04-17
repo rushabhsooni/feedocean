@@ -22,6 +22,9 @@
 ## News
 
 * [cnBeta.COM](https://feedocean.com/feeds/gjn0yf) - 最新业界资讯
+* [FT中文版](https://feedocean.com/feeds/15qqtz) - FT中文版
+* [The New York Times](https://feedocean.com/feeds/5yoe4g) 
+* [纽约时报中文网](https://feedocean.com/feeds/fpdymq)
 
 ## Programming
 
